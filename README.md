@@ -66,7 +66,7 @@ Numerical variables were examined to understand central tendencies and variabili
 Key Data Insights & Interpretations
 
 ### 1. Data Summary (df.describe())
-The average order value is $1,053.97, the average unit price is $356.41*, and customers have about 5.48 items total in their shopping cart.
+The average order value is $1,053.97, the average unit price is $356.41, and customers have about 5.48 items total in their shopping cart.
  Customers are spending a good amount of money per order. Also, since individual product quantities are usually small but the total cart size is bigger,
   it shows that customers like to buy a mix of different products together.
 
